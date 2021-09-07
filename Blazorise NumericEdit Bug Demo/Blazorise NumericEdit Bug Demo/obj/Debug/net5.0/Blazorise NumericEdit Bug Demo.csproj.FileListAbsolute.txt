@@ -1,0 +1,61 @@
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\appsettings.Development.json
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\appsettings.json
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise NumericEdit Bug Demo.StaticWebAssets.xml
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise NumericEdit Bug Demo.exe
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise NumericEdit Bug Demo.deps.json
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise NumericEdit Bug Demo.runtimeconfig.json
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise NumericEdit Bug Demo.runtimeconfig.dev.json
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise NumericEdit Bug Demo.dll
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\ref\Blazorise NumericEdit Bug Demo.dll
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise NumericEdit Bug Demo.pdb
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise NumericEdit Bug Demo.Views.dll
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise NumericEdit Bug Demo.Views.pdb
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise.dll
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise.Bootstrap.dll
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\bin\Debug\net5.0\Blazorise.Icons.FontAwesome.dll
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.csproj.AssemblyReference.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.AssemblyInfoInputs.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.AssemblyInfo.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.csproj.CoreCompileInputs.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.RazorComponent.input.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.RazorComponent.output.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\RazorDeclaration\Blazorise NumericEdit Bug Demo.dll
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.TagHelpers.input.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.TagHelpers.output.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.RazorCoreGenerate.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.RazorAssemblyInfo.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.RazorAssemblyInfo.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\staticwebassets\Blazorise NumericEdit Bug Demo.StaticWebAssets.Manifest.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\staticwebassets\Blazorise NumericEdit Bug Demo.StaticWebAssets.xml
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\scopedcss\bundle\Blazorise NumericEdit Bug Demo.styles.css
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\scopedcss\projectbundle\Blazorise NumericEdit Bug Demo.bundle.scp.css
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.RazorTargetAssemblyInfo.cache
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.RazorTargetAssemblyInfo.cs
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.Views.pdb
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.csproj.CopyComplete
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.dll
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\ref\Blazorise NumericEdit Bug Demo.dll
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.pdb
+D:\Rometron\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\Blazorise NumericEdit Bug Demo\obj\Debug\net5.0\Blazorise NumericEdit Bug Demo.genruntimeconfig.cache

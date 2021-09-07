@@ -1,0 +1,12 @@
+﻿@page "/"
+@using Blazorise
+
+<div>
+    @NumericValue
+</div>
+<NumericEdit TValue="uint?" @bind-Value="NumericValue" />
+
+@code
+{
+    uint? NumericValue;
+}
